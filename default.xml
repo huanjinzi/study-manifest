@@ -9,8 +9,12 @@
            sync-j="4" />
            
   <project path="day" name="day" />
-  <project path="cpp" name="cpp" />
+  <project path="pdf" name="pdf" />
   <project path="linux" name="linux" />
-  <project path="python" name="python" />
+  <project path="language/groovy" name="groovy" />
+  <project path="language/kotlin" name="kotlin" />
+  <project path="language/java" name="java" />
+  <project path="language/cpp" name="cpp" />
+  <project path="language/python" name="python" />
 
 </manifest>
