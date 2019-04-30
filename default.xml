@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="study"
+           fetch=".."
+           review="https://android-review.googlesource.com/" />
+           
+  <default revision="master"
+           remote="study"
+           sync-j="4" />
+           
+  <project path="day" name="day" />
+  <project path="cpp" name="cpp" />
+  <project path="linux" name="linux" />
+  <project path="python" name="python" />
+
+</manifest>
