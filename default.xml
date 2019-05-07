@@ -16,5 +16,6 @@
   <project path="language/java" name="java" />
   <project path="language/cpp" name="cpp" />
   <project path="language/python" name="python" />
+  <project path="language/go" name="go" />
 
 </manifest>
